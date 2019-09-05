@@ -1,9 +1,4 @@
-/**
- * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-08-09 13:11:16
- */
-
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 127.0.0.1:13659';
 var rules = [
     [
         [],
